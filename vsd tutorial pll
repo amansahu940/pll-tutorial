@@ -45,4 +45,9 @@ so NMOS can be given higher width to make them both work together.
 
 OPERATION OF FEEDBACK LOOP : the output is given back to input so generally it gives the error so basically the circuit works in critically damped condition
 which means it will be settled in less time and variations in the output will also be less.
+![WhatsApp Image 2021-10-19 at 8 29 38 PM](https://user-images.githubusercontent.com/92799881/137937254-32ffef59-3b84-48a4-8b31-92a86145efe2.jpeg)
+
+NOW COMING TO IC FABRICATION PROCESS:
+when fabricated on silicon it all connect wit a sort of wire so it should'nt be too long as it increases the resistance
+and it should'nt be connected more in parallel with each other ,leads to increases in capacitances.
 
