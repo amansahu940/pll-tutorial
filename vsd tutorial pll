@@ -55,4 +55,12 @@ and it should'nt be connected more in parallel with each other ,leads to increas
    
 NOW EULER PATH- It helps in making the connection of ic optimal by considering the path ways of gates of pull upand pull down network at the time layout.
 
+***************************
+
+coming to lab -PRE LAYOUT SIMULATION 
+PHASE FREQUENCY DETECTOR(PFD): consits of 1 inverter
+                                          1 (2*1) NAND GATE
+                                          1 (3*1) NAND GATE
+                                          1 (4*1) NAND GATE
+                                          
 
