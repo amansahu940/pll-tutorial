@@ -28,4 +28,16 @@ NOWADAYS Processor works at a frequency of 5 GHZ,MHZ and the generated source fr
  __FREQUENCY COUNTER basically divides the frequency into 2,4,8...
  
  COMING TO CMOS IMPLEMENTATION: 
+ ![WhatsApp Image 2021-10-19 at 8 14 42 PM](https://user-images.githubusercontent.com/92799881/137934355-1730326c-9401-48f1-9066-db64edc99767.jpeg)
  
+ upper is the PMOS which is of less mobility 
+ lower is the NMOS which is of high mobility
+ 
+ so we have to give the extra charge to pmos to mke it feasibily work with nmos
+pmos width=360nm,L=180nm
+nmos width=180nm,L=180nm
+
+sometimes if pmos connected in parallel and 
+nmos connected in series so NMOS add up 
+and PMOS give one equivalent value 
+so NMOS can be given higher width to make them both work together.
