@@ -41,3 +41,8 @@ sometimes if pmos connected in parallel and
 nmos connected in series so NMOS add up 
 and PMOS give one equivalent value 
 so NMOS can be given higher width to make them both work together.
+![WhatsApp Image 2021-10-19 at 8 24 09 PM](https://user-images.githubusercontent.com/92799881/137936089-daf65d2f-8b1b-4f3b-8807-bf8c1344d0ac.jpeg)
+
+OPERATION OF FEEDBACK LOOP : the output is given back to input so generally it gives the error so basically the circuit works in critically damped condition
+which means it will be settled in less time and variations in the output will also be less.
+
