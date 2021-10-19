@@ -70,5 +70,8 @@ This is the main command of PFD shown in atom text editor:
 ![WhatsApp Image 2021-10-19 at 10 34 33 PM](https://user-images.githubusercontent.com/92799881/137958181-0b51eed2-99f1-4e10-986f-7d18a23dbeef.jpeg)
 
 with given subsripts of PFD and OUTPUT of the waveform with input 2 leading with 2ns
+![WhatsApp Image 2021-10-19 at 10 41 13 PM](https://user-images.githubusercontent.com/92799881/137959563-81ba9dd3-e574-4a0c-8fef-fd0d1b175186.jpeg)
 
-
+In these output shown is input 2 is leading with input 1 and for 27 ns its in the phase and following that input 2 started lagging
+ 
+ NOW about the CHARGE PUMP: it consists of the Power transistor with large width ,less resistance and more current so it charges the capacitor in LOW PASS FILTER
