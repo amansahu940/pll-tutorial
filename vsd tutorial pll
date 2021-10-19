@@ -5,3 +5,7 @@ INTRODUCTION: If to access any application on mobile ,laptops or any electronics
 basically compiler converts high level language to low level language and assembler take it down to further to convert it into binary.
  
  CHIP is basically called the package
+ ![WhatsApp Image 2021-10-19 at 7 47 13 PM](https://user-images.githubusercontent.com/92799881/137929189-5000900f-159b-49fc-a1db-126b5a27c9ea.jpeg)
+package is generaaly the gateway for us to access the chip sitting inside
+and there are Pads available for CORE for connecting it to the package 
+also there is a die - space b|w core and die which we fabricate
