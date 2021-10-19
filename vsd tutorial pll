@@ -20,3 +20,12 @@ to understand the IP first we need to understand the ON CHIP CLOCK MULTIPLER
 basically it is a multiplier which just multiplies the source frequency (low HZ) to the high (hz) frequency  ,known as PLL.
 NOWADAYS Processor works at a frequency of 5 GHZ,MHZ and the generated source frequency is low thetas why we need a PLL.
 
+![WhatsApp Image 2021-10-19 at 8 04 36 PM](https://user-images.githubusercontent.com/92799881/137932297-9365b5b1-3395-4372-a8f6-1db4d9189405.jpeg)
+ __source frequency gives the input to PHASE DETECTOR
+ __PHASE DETECTOR gives the input to the LOW PASS FILTER in the form of DC PULSES,WAVEFORM
+ __LOW PASS FILTER converts it into the dc value for VOLTAGE CONTROLLER OSCILLATER(VCO).
+ __if vco recieves low dc value then there will be low frquency generated if more dc value vice versa..
+ __FREQUENCY COUNTER basically divides the frequency into 2,4,8...
+ 
+ COMING TO CMOS IMPLEMENTATION: 
+ 
