@@ -51,6 +51,8 @@ NOW COMING TO IC FABRICATION PROCESS:
 when fabricated on silicon it all connect wit a sort of wire so it should'nt be too long as it increases the resistance
 and it should'nt be connected more in parallel with each other ,leads to increases in capacitances.
 ![WhatsApp Image 2021-10-19 at 8 34 22 PM](https://user-images.githubusercontent.com/92799881/137938217-9e026c5a-0adc-435a-9492-fa9b45983082.jpeg)
+
+   
 NOW EULER PATH- It helps in making the connection of ic optimal by considering the path ways of gates of pull upand pull down network at the time layout.
 
 
