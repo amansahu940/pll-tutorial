@@ -9,3 +9,14 @@ basically compiler converts high level language to low level language and assemb
 package is generaaly the gateway for us to access the chip sitting inside
 and there are Pads available for CORE for connecting it to the package 
 also there is a die - space b|w core and die which we fabricate
+![WhatsApp Image 2021-10-19 at 7 53 08 PM](https://user-images.githubusercontent.com/92799881/137930158-cdf8f51b-86b3-4290-8192-37ae9f3a9c88.jpeg)
+-
+-
+-
+NOW coming to the IP-INTELLECTUAL PROPERTY
+it is basically a reuasable unit of logic by which we can save the designing and testing time by just inserting the verified ones and to respect the MOORE's LAW.
+
+to understand the IP first we need to understand the ON CHIP CLOCK MULTIPLER
+basically it is a multiplier which just multiplies the source frequency (low HZ) to the high (hz) frequency  ,known as PLL.
+NOWADAYS Processor works at a frequency of 5 GHZ,MHZ and the generated source frequency is low thetas why we need a PLL.
+
